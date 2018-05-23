@@ -13,4 +13,8 @@ public class Demo1 {
     public void xiwu(){
         System.out.println("乾坤大挪移");
     }
+
+    public void lvxing(){
+        System.out.println("冰火岛");
+    }
 }
