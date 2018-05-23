@@ -8,4 +8,8 @@ public class Demo1 {
     public static void main(String[] args) {
         System.out.println("张无忌");
     }
+
+    public void xiwu(){
+        System.out.println("乾坤大挪移");
+    }
 }
